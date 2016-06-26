@@ -4,6 +4,7 @@
 *.so
 
 # Folders
+node_modules/
 _obj
 _test
 
